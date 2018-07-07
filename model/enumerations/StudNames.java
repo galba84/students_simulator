@@ -1,0 +1,4 @@
+package model.enumerations;
+
+public enum StudNames {JOHN, CLARK, ANTONY, NICK, ELTON, ELVIS, RICHARD, BILL, CATE,OLIVIA,MELANIE,SILVIA,STEFA,LIZA,MONIKA,ANN
+}
