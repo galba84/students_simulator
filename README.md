@@ -32,11 +32,9 @@ Professor check which students attends classes in each groups.
 Exit Program
 
 
-## Versioning
+## Version 0.1.0
 
-v. 0.1.0
-
-## Authors
+## Author
 
 **Oleksandr Sereda**
 
