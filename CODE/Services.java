@@ -88,17 +88,4 @@ public class Services {
         }
     }
 
-    public void declareWinner(int winnerId) {
-//        Student winner = univer.getStudent(winnerId);
-//        System.out.println(" ");
-//        if (winner.sex == "Male")
-//
-//            System.out.print("Mr. ");
-//        else System.out.print("Mrs. ");
-//
-//        System.out.println(winner.getName() + " has WON ELECTION with total score " + winner.raiting + " CONGRATULATIONS !!!!!!!!!");
-//        System.out.println(" ");
-//        univer.teamleaders.add(winnerId);
-    }
-
 }
